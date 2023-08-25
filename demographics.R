@@ -1,6 +1,5 @@
 library(tidyverse)
-getwd()
-setwd("/Users/jannatulashpia/Documents/")
+
 #Read the files
 get_13_18 <- read_csv('2013_-_2018_Demographic_Snapshot_Borough.csv')
 get_12_21 <- read_csv('2020-2021_Demographic_Snapshot_Borough.csv')
